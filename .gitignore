@@ -1,2 +1,6 @@
 /venv
 .env
+my_userbot.session
+notification_bot.session
+my_userbot.session-journal
+notification_bot.session-journal
